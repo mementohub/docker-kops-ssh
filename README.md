@@ -1,3 +1,3 @@
 # docker-kops
 
-A Docker image with `kubectl`, `kops` and `npm` installed.
+A Docker image with `kubectl`, `kops`, `git` and `ssh` installed.
